@@ -1,0 +1,28 @@
+Git
+  分布式版本的控制系统
+  可以查看的文件的修改记录内容
+
+集中式版本控制
+分布式版本控制
+
+
+          push                  commit                     add
+远程库         本地库《————— 暂存区〈—————工作区   
+                  历史版本                临时存储               写代码
+
+—————
+Git的常用的命令
+git config —global user.name
+git config —global user.email
+git config —list 查看
+
+（1）git init  初始化
+     会创建一个隐藏的.git文件
+  (2) git status 查看状态
+
+
+
+
+
+
+
